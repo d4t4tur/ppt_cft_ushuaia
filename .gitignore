@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+*.Rproj
+*.zip
+entradas/**
+salidas/**
+!salidas/salidas.md
+!entradas/entradas.md
